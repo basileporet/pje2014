@@ -5,11 +5,11 @@
  * @author basileporet
  *
  */
-public class C1{
+public class C3{
 	/**
 	 *
 	 */
-	public C1(){
+	public C3(){
 		// TODO Auto-generated constructor stub
 	}
 }
